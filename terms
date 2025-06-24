@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Terms of Service</title>
+  <meta charset="UTF-8" />
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>By using our services or authorizing our application to access your TikTok Shop data, you agree to these terms.</p>
+  <p>You retain full ownership of your data. We use your TikTok Shop data solely to provide reporting, insights, and automation features. We do not sell or share your data.</p>
+  <p>You may revoke access at any time. We are not liable for any outages, data loss, or downtime caused by TikTok Shop API limitations or issues.</p>
+</body>
+</html>
